@@ -1,7 +1,8 @@
 
 def index():
 	p=10
-	print(p, " ", 12, " ")
+	print(p, "  ", 12)
+	print(12)
 
 
 
