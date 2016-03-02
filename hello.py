@@ -4,6 +4,7 @@ def index():
 	print(p,45, "  ", 12)
 	print(12)
 	print(11)
+	print(8)
 
 
 
