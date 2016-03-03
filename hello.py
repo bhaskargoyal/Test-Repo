@@ -5,6 +5,7 @@ def index():
 	print(12)
 	print(11)
 	print(8)
+	print(4)
 
 
 
